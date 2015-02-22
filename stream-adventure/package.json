@@ -1,0 +1,19 @@
+{
+  "name": "stream-adventure-solutions",
+  "version": "1.0.0",
+  "description": "nodeschool.io stream-adventure solutions",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodeschool.io"
+  ],
+  "author": "Luis Miranda",
+  "license": "ISC",
+  "dependencies": {
+    "concat-stream": "^1.4.7",
+    "split": "^0.3.3",
+    "through": "^2.3.6"
+  }
+}
